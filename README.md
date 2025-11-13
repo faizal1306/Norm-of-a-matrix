@@ -1,7 +1,8 @@
 ### Date : 
 # Ex-7 : Norm of a matrix
 ## Name:Mohamed Faizal M
-## Reg no:24000006
+## Reg no:212223243002
+## Date:
 ## Aim
 To write a program to find the 1-norm, 2-norm and infinity norm of the matrix and display the result in two decimal places.
 ## Equipment’s required:
