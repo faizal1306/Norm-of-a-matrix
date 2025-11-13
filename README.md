@@ -1,4 +1,3 @@
-### Date : 
 # Ex-7 : Norm of a matrix
 ## Name:Mohamed Faizal M
 ## Reg no:212223243002
